@@ -10,11 +10,11 @@ export default function Footer() {
             <span className="text-cyber-green font-semibold">cybersecurity</span> and continuous learning
           </p>
           <p className="text-gray-500 text-sm">
-            © 2026 Hari Krishna Mahato. All rights reserved.
+            © 2026 Ankit Kumar. All rights reserved.
           </p>
           <div className="flex justify-center gap-6 pt-4">
             <a
-              href="https://github.com/harikrishnamahato777"
+              href="https://github.com/Ankit3773"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyber-cyan transition-colors"
@@ -22,7 +22,7 @@ export default function Footer() {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/harikrishnamahato777"
+              href="https://www.linkedin.com/in/AnkitjhdseKumar/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyber-cyan transition-colors"
@@ -30,7 +30,7 @@ export default function Footer() {
               LinkedIn
             </a>
             <a
-              href="mailto:harikrishnamahato777@gmail.com"
+              href="mailto:Ankit3250a@gmail.com"
               className="text-gray-400 hover:text-cyber-cyan transition-colors"
             >
               Email
