@@ -7,7 +7,8 @@ const projects = [
 description:
   'Developed a GUI-based chatbot that simulates salary negotiation scenarios using structured conversational flow and decision-based logic to enhance communication and negotiation skills.',
 tech: ['Java', 'Java Swing', 'JDK'],
-    demo: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
+github: 'https://github.com/Ankit3773/salary-negotiation-chatbot',    
+demo: 'https://github.com/Ankit3773/salary-negotiation-chatbot',
     date: 'March-May 2025',
   },
   {
