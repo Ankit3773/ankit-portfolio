@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 import { Download, ArrowRight } from 'lucide-react'
 
 const RESUME_URL =
-  'https://drive.google.com/uc?export=download&id=1Q8UZFa068UKYufFBQvXAPmLchto41V7c'
+  'https://drive.google.com/file/d/1TJCpR5Gz_umqhojzIYy2Kq2yp6_6diYE/view?usp=sharing'
 
 export default function Hero() {
   return (
@@ -32,7 +32,7 @@ export default function Hero() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="font-display text-5xl md:text-7xl font-bold mb-6 text-gradient-cyber"
             >
-              Hari Krishna Mahato
+              Ankit Kumar
             </motion.h1>
 
             <motion.p
@@ -93,12 +93,12 @@ export default function Hero() {
 
               <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-cyber-cyan shadow-2xl bg-cyber-dark">
                 <Image
-                  src="/images/profile.png"
-                  alt="Hari Krishna Mahato"
-                  fill
-                  priority
-                  className="object-cover scale-[1.0] object-[50%_35%]"
-                />
+  src="/images/profile.jpeg"
+  alt="Ankit Kumar"
+  fill
+  priority
+  className="object-cover object-top"
+/>
               </div>
             </div>
           </motion.div>

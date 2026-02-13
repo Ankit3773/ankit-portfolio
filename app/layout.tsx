@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Hari Krishna Mahato | Cybersecurity Portfolio',
+  title: 'ANKIT KUMAR | Cybersecurity Portfolio',
   description: 'Cyber Security Student | SOC Analyst Fresher | Networking & Security Fundamentals',
   keywords: ['cybersecurity', 'SOC analyst', 'ethical hacker', 'portfolio', 'security'],
-  authors: [{ name: 'Hari Krishna Mahato' }],
+  authors: [{ name: 'ANKIT KUMAR' }],
   openGraph: {
-    title: 'Hari Krishna Mahato | Cybersecurity Portfolio',
+    title: ' ANKIT KUMAR | Cybersecurity Portfolio',
     description: 'Cyber Security Student | SOC Analyst Fresher',
     type: 'website',
   },

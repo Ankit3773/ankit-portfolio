@@ -7,26 +7,26 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'harikrishnamahato777@gmail.com',
-    href: 'mailto:harikrishnamahato777@gmail.com',
+    value: 'ankit3250a@gmail.com',
+    href: 'mailto:ankit3250a@gmail.com',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/harikrishnamahato777/',
-    href: 'https://www.linkedin.com/in/harikrishnamahato777',
+    value: 'linkedin.com/in/ankitjhdsekumar/',
+    href: 'https://www.linkedin.com/in/ankitjhdsekumar/',
   },
   {
     icon: Github,
     label: 'GitHub',
-    value: 'https://github.com/harikrishnamahato777',
-    href: 'https://github.com/harikrishnamahato777',
+    value: 'https://github.com/Ankit3773',
+    href: 'https://github.com/Ankit3773',
   },
   {
     icon: Phone,
     label: 'Mobile',
-    value: '+91-9877718263',
-    href: 'tel:+919877718263',
+    value: '+91-8210128547',
+    href: 'tel:+91-8210128547',
   },
 ]
 

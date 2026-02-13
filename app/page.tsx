@@ -7,9 +7,7 @@ import About from '@/components/About'
 import Skills from '@/components/Skills'
 import Projects from '@/components/Projects'
 import Education from '@/components/Education'
-import Training from '@/components/Training'
 import Certificates from '@/components/Certificates'
-import CyberLearning from '@/components/CyberLearning'
 import Contact from '@/components/Contact'
 import Footer from '@/components/Footer'
 import Background from '@/components/Background'
@@ -46,9 +44,7 @@ export default function Home() {
       <Skills />
       <Projects />
       <Education />
-      <Training />
       <Certificates />
-      <CyberLearning />
       <Contact />
       <Footer />
     </main>

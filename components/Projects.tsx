@@ -3,34 +3,24 @@ import { Github, ExternalLink } from 'lucide-react'
 const projects = [
   {
     number: '01',
-    title: 'Browser History Manager',
-    description:
-      'Simulates real browser navigation using Stack and Doubly Linked List. Integrates logical operations with GUI components. Tracks visited URLs clearly.',
-    tech: ['Java', 'Java Swing', 'JDK'],
-    github: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
+    title: 'Salary Negotiation ChatBot',
+description:
+  'Developed a GUI-based chatbot that simulates salary negotiation scenarios using structured conversational flow and decision-based logic to enhance communication and negotiation skills.',
+tech: ['Java', 'Java Swing', 'JDK'],
     demo: 'https://github.com/harikrishnamahato777/Browser_History_Manager',
-    date: 'Jun–Jul 2025',
+    date: 'March-May 2025',
   },
   {
     number: '02',
-    title: 'Yoga Tracker',
-    description:
-      'Fitness tracking and workout planner website. Tracks daily workouts, calorie intake, and health statistics with a clean, user-friendly interface.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/harikrishnamahato777/Yoga_Tracker_Main',
-    demo: 'https://harikrishnamahato777.github.io/Yoga_Tracker_Main/',
-    date: 'Sep–Nov 2025',
+    title: 'Basic Calculator',
+description:
+  'Built a responsive calculator application implementing real-time arithmetic operations, operator handling, and edge-case management using vanilla JavaScript.',
+tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/Ankit3773/calculator-1st-sem1',
+    demo: ' https://ankit3773.github.io/calculator-1st-sem1/',
+    date: 'Sep–Nov 2023',
   },
-  {
-    number: '03',
-    title: 'LoanAI – AI Personal Loan Advisor',
-    description:
-      'AI-powered web application that provides personalized loan recommendations using Google Gemini AI. Includes smart advice generation, voice input, dark mode, and financial insights based on user credit profile.',
-    tech: ['React', 'JavaScript', 'Gemini API', 'Tailwind CSS'],
-    github: 'https://github.com/harikrishnamahato777/AI-Loan-Advisor',
-    demo: 'https://harikrishnamahato777.github.io/AI-Loan-Advisor/',
-    date: 'Sep 2024',
-  },
+  
   
 ]
 

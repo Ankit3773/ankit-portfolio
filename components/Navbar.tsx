@@ -9,13 +9,12 @@ const navLinks = [
   { name: 'Skills', href: '#skills' },
   { name: 'Projects', href: '#projects' },
   { name: 'Education', href: '#education' },
-  { name: 'Training', href: '#training' },
   { name: 'Certificates', href: '#certificates' },
   { name: 'Contact', href: '#contact' },
 ]
 
 const RESUME_URL =
-  'https://drive.google.com/uc?export=download&id=1Q8UZFa068UKYufFBQvXAPmLchto41V7c'
+  ' https://drive.google.com/file/d/1TJCpR5Gz_umqhojzIYy2Kq2yp6_6diYE/view?usp=sharing'
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false)
@@ -42,7 +41,7 @@ export default function Navbar() {
             href="#"
             className="font-display text-2xl font-bold text-cyber-cyan hover:text-cyber-green transition-colors"
           >
-            &lt;HKM Portfolio/&gt;
+            &lt;ANKIT Portfolio/&gt;
           </a>
 
           <div className="hidden lg:flex items-center gap-8">

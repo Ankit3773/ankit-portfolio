@@ -4,7 +4,7 @@ const skillsData = [
   {
     category: 'Programming',
     icon: Code2,
-    skills: ['C++', 'Python', 'C','Java','Python'],
+    skills: ['C++','Java'],
     color: 'cyan',
   },
   {
@@ -16,7 +16,7 @@ const skillsData = [
   {
     category: 'Cybersecurity & Tools',
     icon: Shield,
-    skills: ['TryHackMe', 'MySQL', 'VS Code'],
+    skills: ['TryHackMe', 'MySQL', 'FTK Imager','Nmap','Wireshark'],
     color: 'purple',
   },
   {
